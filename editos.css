@@ -1,0 +1,21 @@
+
+h1{
+    color: rgb(255, 255, 255)
+    }
+    h1{
+         background-color: rgb(117, 94, 98); width: 400px; height: 70px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        
+    }
+    h2{
+        color:rgb(255, 255, 255); font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; background-color: rgb(117, 94, 98); width: 400px; text-align: center;
+                                                            
+    }
+    dt{
+        text-align: left; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    dd{
+        text-align: left; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+   
+    
+
